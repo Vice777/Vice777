@@ -1,6 +1,6 @@
 <!-- ![](assests/banner.png) -->
 
-<img width="1080px" scr="https://github-widgetbox.vercel.app/api/profile?username=Vice777&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=Vice777&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 
 > ## I'm Vivek Dharewa👋
 > An enthusiastic individual who loves exploring new technologies and develop solution from problems specializing in Machine Learning architectures and a backend development . 
